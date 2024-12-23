@@ -31,3 +31,10 @@ How well those variables describe the electric cycle demands
 - casual: count of casual users
 - registered: count of registered users
 - count: count of total rental bikes including both casual and registered
+
+# Concept Used:
+
+Bi-Variate Analysis
+2-sample t-test: testing for difference across populations
+ANNOVA
+Chi-square
